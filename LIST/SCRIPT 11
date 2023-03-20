@@ -1,0 +1,11 @@
+Write a Python program to enter sentence of atleast 10 words. Take user input of lengtho of word. 
+
+Find the word in user inputed string which has >= length of word enter by user and creaet its directory where word is key and its length is value.
+
+For Example : 
+
+Enter String : My college name is Vidyabharti Trust college of Business Computer Science and Research. My College is located at Umrakh.
+
+Minimum World length :  6
+
+{"college":7, "Vidyabharti":11, "Business":8, "Computer":8,"Science":7,"Research":8,"Umrakh":1}

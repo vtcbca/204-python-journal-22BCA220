@@ -1,0 +1,21 @@
+Write a script to create dictionary from list which contain student id , name and percentage
+
+Take student id and name till user choise.
+
+For example :
+
+studnet id: 1
+student name : om
+student percentage: 82.82
+
+Do you want to enter detail for more student? (yes=Y/y,No=N/n): y
+
+studnet id: 2
+student name :sai
+student percentage: 75.68
+
+Do you want to enter detail for more student? (yes=Y/y,No=N/n): n
+
+List : [ 1,om,82.82,2,sai,75.68]
+
+Dictionary : {1:[om,82.82],2:[sai,75.68]}

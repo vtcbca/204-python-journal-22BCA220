@@ -1,0 +1,14 @@
+Write a python menu driven script to create 2d array of 5 student marks of 5 subject to perform following operation. 
+
+
+1. Print the minimum marks of each subject.
+
+2. Print the maximum marks of each subject.
+
+3. Print the average marks of each subject.
+
+4. Print the marks which are most student get or repeated in subject. 
+
+5. Find the variance value for each subject marks.
+
+6.  Print the total of  each student.

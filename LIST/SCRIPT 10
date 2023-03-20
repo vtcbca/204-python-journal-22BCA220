@@ -1,0 +1,7 @@
+wriate a script to check if the list contains three consecutive common numbers in Python using udf.
+
+For Example : 
+
+Input : [4, 5, 5, 5, 3, 8]
+
+Output : 5

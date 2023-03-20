@@ -1,0 +1,13 @@
+Write a NumPy program to create a new shape to an array without changing its data.
+
+For Example:
+
+Reshape 3x2:
+[[1 2]
+[3 4]
+[5 6]]
+
+
+Reshape 2x3:
+[[1 2 3]
+[4 5 6]]

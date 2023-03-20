@@ -1,0 +1,17 @@
+Write a script to Replace list’s item with new value if found. Take value from user which you want to replace.
+
+
+For Example :
+
+You have given a Python list. 
+
+Enter value you want to replace:  20 
+
+Enter value from which you want to replace : 200
+
+Given:
+
+list1 = [5, 10, 15, 20, 25, 50, 20]
+Expected output:
+
+[5, 10, 15, 200, 25, 50, 20]
